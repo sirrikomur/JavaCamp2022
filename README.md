@@ -10,9 +10,9 @@
 
 <hr>
 
-### 🧮 Programs 🧮
+### 🧮 Applications 🧮
 
-- [ ] Prime Number
+- [X] Prime Number
 - [ ] Find Largest Number
 - [ ] Friend Number
 - [ ] Perfect Number
