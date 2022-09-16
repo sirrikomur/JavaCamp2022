@@ -15,7 +15,7 @@
 - [X] Prime Number
 - [X] Find Largest Number
 - [X] Friend Number
-- [ ] Perfect Number
+- [X] Perfect Number
 - [ ] Find Turkish Hard and Soft Letters
 - [ ] Is It in Array?
 
