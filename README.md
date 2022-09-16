@@ -13,7 +13,7 @@
 ### 🧮 Applications 🧮
 
 - [X] Prime Number
-- [ ] Find Largest Number
+- [X] Find Largest Number
 - [ ] Friend Number
 - [ ] Perfect Number
 - [ ] Find Turkish Hard and Soft Letters
