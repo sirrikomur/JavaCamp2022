@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaCamp2022.iml" filepath="$PROJECT_DIR$/.idea/JavaCamp2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/findLargestNumber/findLargestNumber.iml" filepath="$PROJECT_DIR$/findLargestNumber/findLargestNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/friendNumber/friendNumber.iml" filepath="$PROJECT_DIR$/friendNumber/friendNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeNumber/primeNumber.iml" filepath="$PROJECT_DIR$/primeNumber/primeNumber.iml" />
+    </modules>
+  </component>
+</project>
