@@ -16,8 +16,8 @@
 - [X] Find Largest Number
 - [X] Friend Number
 - [X] Perfect Number
-- [ ] Find Turkish Hard and Soft Letters
-- [ ] Is It in Array?
+- [X] Find Turkish Hard and Soft Letters
+- [X] Is It in Array? (It was carried out inside the application named 'Find Turkish Hard and Soft Letters'.)
 
 <hr>
 <h3 align="center">Connect with me:</h3>
