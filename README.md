@@ -18,6 +18,7 @@
 - [X] Perfect Number
 - [X] Find Turkish Hard and Soft Letters
 - [X] Is It in Array? (It was carried out inside the application named 'Find Turkish Hard and Soft Letters'.)
+- [X] Exam Array
 
 <hr>
 <h3 align="center">Connect with me:</h3>
