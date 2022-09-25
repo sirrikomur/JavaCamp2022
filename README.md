@@ -11,7 +11,7 @@
 <hr>
 
 ### 🧮 Applications 🧮
-
+#### Week 1
 - [X] Prime Number
 - [X] Find Largest Number
 - [X] Friend Number
@@ -19,6 +19,9 @@
 - [X] Find Turkish Hard and Soft Letters
 - [X] Is It in Array? (It was carried out inside the application named 'Find Turkish Hard and Soft Letters'.)
 - [X] Exam Array
+
+#### Week 2
+- [ ] Bank App using Classes
 
 <hr>
 <h3 align="center">Connect with me:</h3>
