@@ -1,6 +1,6 @@
 package entities.customer;
 
-import bases.Customer;
+import bases.entities.Customer;
 
 public class CorporateCustomer extends Customer {
     private String _companyName;
