@@ -1,10 +1,10 @@
 package managers.customer;
 
-import bases.CustomerManager;
+import bases.managers.CustomerManager;
 import entities.customer.PersonalCustomer;
 
 public class PersonalCustomerManager extends CustomerManager {
-    public void displayInformation(PersonalCustomer personalCustomer){
+    public void displayCustomerInformation(PersonalCustomer personalCustomer) {
         System.out.println("Customer;");
         System.out.println("Id: " + personalCustomer.getId());
         System.out.println("Customer Number: " + personalCustomer.getCustomerNumber());

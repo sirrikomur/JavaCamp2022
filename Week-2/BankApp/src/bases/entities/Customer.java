@@ -1,4 +1,6 @@
-package bases;
+package bases.entities;
+
+import java.util.List;
 
 public class Customer {
     private int _id;
@@ -7,6 +9,7 @@ public class Customer {
     private String _phoneNumber;
     private String _email;
     private String _address;
+    private List<Loan> _loans;
 
     public int getId() {
         return _id;
@@ -54,5 +57,13 @@ public class Customer {
 
     public void setAddress(String address) {
         _address = address;
+    }
+
+    public List<Loan> getLoans() {
+        return _loans;
+    }
+
+    public void setLoans(List<Loan> loans) {
+        _loans = loans;
     }
 }

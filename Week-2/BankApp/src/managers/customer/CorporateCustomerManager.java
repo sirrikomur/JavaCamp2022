@@ -1,6 +1,6 @@
 package managers.customer;
 
-import bases.CustomerManager;
+import bases.managers.CustomerManager;
 
 public class CorporateCustomerManager extends CustomerManager {
 
