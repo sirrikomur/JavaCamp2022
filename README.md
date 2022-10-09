@@ -21,7 +21,7 @@
 - [X] Exam Array
 
 #### Week 2
-- [ ] Bank App using Classes
+- [X] Bank App using Classes
 
 <hr>
 <h3 align="center">Connect with me:</h3>
