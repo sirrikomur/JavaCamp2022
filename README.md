@@ -22,12 +22,3 @@
 
 #### Week 2
 - [X] Bank App using Classes
-
-<hr>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/sirrikomur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sirrikomur" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sirrikomur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sirrikomur" height="30" width="40" /></a>
-<a href="https://instagram.com/sirrikomur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sirrikomur" height="30" width="40" /></a>
-<a href="https://medium.com/@sirrikomur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sirrikomur" height="30" width="40" /></a>
-</p>
